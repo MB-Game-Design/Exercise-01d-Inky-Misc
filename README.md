@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Max Bailey
 
-# Your Github username
+# MB-Game-Design
